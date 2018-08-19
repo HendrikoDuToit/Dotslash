@@ -1,0 +1,66 @@
+c:\users\hendriko\documents\visual studio 2013\Projects\SEN321Project\SEN321Project\bin\Debug\SEN321Project.exe.config
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\bin\Debug\SEN321Project.exe.config
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\bin\Debug\SEN321Project.exe
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\bin\Debug\SEN321Project.pdb
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.csprojResolveAssemblyReference.cache
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmAddClient.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmAddComponent.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmAddProduct.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmDeleteClient.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmDeleteProduct.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmClientManagement.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmLogin.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmAddTicket.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmMainMenu.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmAddOrder.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmProductManagement.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.Properties.Resources.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmTechnicalSupport.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmUpdateClient.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmUpdateOrder.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmUpdateProduct.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmViewOrders.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.csproj.GenerateResource.Cache
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.exe
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.pdb
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\bin\Debug\ClassLibrary.dll
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\bin\Debug\ClassLibrary.pdb
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmConfirmOrder.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmConfirmProduct.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmViewTickets.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmAddInstallation.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmViewInstallations.resources
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmPhone.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\bin\Debug\SEN321Project.exe.config
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.exe
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.csprojResolveAssemblyReference.cache
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmAddClient.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmAddComponent.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmAddProduct.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmAddInstallation.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmConfirmOrder.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmConfirmProduct.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmDeleteClient.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmDeleteProduct.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmClientManagement.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmPhone.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmViewInstallations.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmLogin.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmAddTicket.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmMainMenu.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmAddOrder.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmViewTickets.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmProductManagement.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.Properties.Resources.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmTechnicalSupport.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmUpdateClient.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmUpdateOrder.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmUpdateProduct.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmViewOrders.resources
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.csproj.GenerateResource.Cache
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\bin\Debug\SEN321Project.exe
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\bin\Debug\SEN321Project.pdb
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\bin\Debug\ClassLibrary.dll
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\bin\Debug\ClassLibrary.pdb
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.pdb
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\SEN321Project\obj\Debug\SEN321Project.frmCallHistory.resources

@@ -1,0 +1,10 @@
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\ClassLibrary\obj\Debug\ClassLibrary.pdb
+E:\Belgium Stuff\Year 3\SEN321\SEN321 Project\SEN321Project\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Hendriko\Desktop\SEN321 Project\SEN321Project\ClassLibrary\obj\Debug\ClassLibrary.pdb
